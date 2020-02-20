@@ -1,0 +1,16 @@
+{
+  "name": "how-to-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "how-to-markdown": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "how-to-markdown",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

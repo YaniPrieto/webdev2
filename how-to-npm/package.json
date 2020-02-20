@@ -1,0 +1,21 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "how-to-npm",
+    "test": "node test.js",
+    "verify-PKG": "how-to-npm verify @linclark/pkg"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YaniPrieto/webdev2"
+  }
+}

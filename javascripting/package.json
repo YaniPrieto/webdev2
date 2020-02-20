@@ -1,0 +1,17 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "how-to-markdown": "^1.6.0",
+    "javascripting": "^2.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "javascripting",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

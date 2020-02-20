@@ -1,0 +1,16 @@
+{
+  "name": "webdev2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "learnyounode": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "learnyounode",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
